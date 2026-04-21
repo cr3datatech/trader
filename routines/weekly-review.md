@@ -22,6 +22,11 @@ IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
   MUST commit and push at STEP 7.
 
+IMPORTANT — GIT BRANCH:
+- You MUST push directly to main. Run these before doing any work:
+  git checkout main
+  git pull origin main
+
 STEP 1 — Read memory for full week context:
   - memory/WEEKLY-REVIEW.md (match existing template exactly)
   - ALL this week's entries in memory/TRADE-LOG.md

@@ -22,6 +22,11 @@ IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
   MUST commit and push at STEP 6. Tomorrow's Day P&L depends on this commit.
 
+IMPORTANT — GIT BRANCH:
+- You MUST push directly to main. Run these before doing any work:
+  git checkout main
+  git pull origin main
+
 STEP 1 — Read memory for continuity:
   - tail of memory/TRADE-LOG.md (find most recent EOD snapshot -> yesterday's
     equity, needed for Day P&L)

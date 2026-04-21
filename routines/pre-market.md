@@ -24,6 +24,11 @@ IMPORTANT — PERSISTENCE:
 - Fresh clone. File changes VANISH unless committed and pushed.
   MUST commit and push at STEP 6.
 
+IMPORTANT — GIT BRANCH:
+- You MUST push directly to main. Run these before doing any work:
+  git checkout main
+  git pull origin main
+
 STEP 1 — Read memory for context:
 - memory/TRADING-STRATEGY.md
 - tail of memory/TRADE-LOG.md
