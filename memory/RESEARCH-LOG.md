@@ -1,5 +1,55 @@
 ---
 
+## 2026-04-21 — Pre-market Research (Run 4)
+
+> NOTE: Alpaca API 403 (IP not in allowlist — persistent). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
+
+### Account
+- Equity: $100,000 (all cash — API unavailable, confirmed from prior entries)
+- Cash: $100,000 (100%)
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- **WTI**: ~$92.13 (+3%) | **Brent**: ~$98.48 (+3%), near $100 threshold — ceasefire expiry fears driving surge
+- **S&P 500**: Closed lower for second day; Dow -132 pts (-0.27%), S&P 500 -0.4%, Nasdaq -0.4%; Futures were +0.18% premarket but reversed
+- **VIX**: 19.08 (+9.15%) — elevated; risk-off; binary oil escalation risk dominant
+- **Iran ceasefire**: Expires Wednesday April 22; Trump says he will NOT extend; VP Vance did not depart for Islamabad peace talks; Iran refusing to negotiate; hostilities resumption now base-case risk
+- **Kevin Warsh (Fed)**: Senate hearing today; vowed "regime change" (fewer meetings, balance sheet shrink, rate cut resistance); not Trump's "sock puppet"; confirmation near-zero near-term (criminal investigation into Powell renovation delays vote)
+- **Earnings today (BMO)**:
+  - UNH: Beat + raised FY guidance; stock +7%
+  - RTX: EPS $1.78 vs $1.52 est (+17%); stock gapped then reversed
+  - GE: EPS beat; stock -3% (margin compression, fuel-cost warning)
+  - HAL: EPS $0.55 vs $0.50 est; revenue flat YoY — muted reaction
+  - NOC: Sales $9.9B, backlog $95.6B record
+  - DHR, MMM, DHI: reported BMO
+- **UAL (after close)**: Record Q1 — EPS +85% YoY, revenue +10.6%; BUT cut FY2026 EPS guidance to $7–$11 from $12–$14 (fuel cost headwind from Iran)
+- **AMZN**: Launched GLP-1 weight-loss program → HIMS & Hers dropped sharply
+- **AAPL**: CEO transition confirmed (Cook → Ternus Sept 1); uncertainty overhang on largest S&P component
+- **Economic calendar**: No CPI/PPI/FOMC/jobs today; Pending Home Sales only (low impact)
+- **Sector momentum YTD**: Leaders — Energy, Materials, Defense/Industrials; Laggards — Tech, Consumer Discretionary, Communications
+
+### Trade Ideas
+1. **NOC** — Record backlog $95.6B; structural defense demand from Hormuz/Iran conflict; if ceasefire collapses, defense premium expands further. Entry ~$490–500 on pullback, stop ~$449 (-9%), target ~$580 (+17%), R:R ~1.9:1. Wait for ceasefire clarity before entering.
+2. **XOM / CVX** — Energy sector YTD leader; Brent near $100, $110+ tail risk if Hormuz stays closed. Entry on intraday pullback to 50dma support. Do NOT chase pre-ceasefire-expiry; wait for resolution signal.
+3. **INTC** — HSBC Buy upgrade PT $95 vs ~$67 current; server CPU demand tailwind Q2. Entry $65–67 on weakness, stop $61 (-9%), target $85 (+27%), R:R 3:1. Contrarian — size at 10% max.
+
+### Risk Factors
+- **Ceasefire expires tomorrow** — highest single risk; hostilities resumption = oil spike $110+, VIX 30+, broad market selloff
+- VIX 19 = keep all new positions ≤15% until VIX recedes below 16
+- Warsh "regime change" signals higher-for-longer rates → headwind for growth stocks
+- UAL guidance cut signals airline/travel sector headwind from fuel costs
+- AAPL CEO transition = ongoing S&P drag risk
+- PDT: 0/3 day trades used — preserve capacity
+- Alpaca API 403 and ClickUp/Perplexity keys MISSING — manual oversight required
+
+### Decision
+**HOLD** — Ceasefire expires tomorrow; entering any position tonight/tomorrow AM is pure binary event risk. NOC, XOM, INTC on watchlist. Re-evaluate Wednesday post-ceasefire outcome: if resolved → deploy into Energy + Defense; if escalates → stay cash, wait for VIX to peak and reverse. Patience > activity.
+
+---
+
 ## 2026-04-21 — Pre-market Research (Run 3)
 
 > NOTE: Alpaca API 403 (IP not in allowlist — persistent). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
