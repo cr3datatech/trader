@@ -2,10 +2,10 @@
 
 ## 2026-04-21 — Pre-market Research (Updated Run 2)
 
-> NOTE: Alpaca API 403 — cloud IP not in allowlist (persistent). Perplexity/ClickUp keys missing; research via WebSearch (fallback). Account snapshot from last known state.
+> NOTE: Alpaca API 403 from cloud host (IP not in allowlist). Perplexity/ClickUp keys missing (MISSING env vars); research via WebSearch fallback.
 
 ### Account
-- Equity: $100,000
+- Equity: $100,000 (unchanged — all cash, no positions)
 - Cash: $100,000 (100%)
 - Buying power: $200,000 (2× margin)
 - Daytrade count: 0
@@ -13,37 +13,31 @@
 - Open orders: none
 
 ### Market Context
-- WTI / Brent: Brent ~$95.75–$96.32; WTI slipping on Iran peace-talk hopes. Citi warns $110/bbl if Hormuz disrupted 4+ more weeks
-- S&P 500 futures: ES ~7,109–7,160, +0.18% premarket; cautious bid on ceasefire uncertainty
-- VIX: ~19.08–19.5, spiked +9.7% Monday on oil shock; elevated — risk-off bias
+- WTI: ~$86.18 (range $86.01–$86.35); Brent: ~$96.32, slipping from Monday's spike
+- S&P 500 futures: ES opened 7,160.75, pulled to 7,109.50 (+0.2% premarket); closed -0.63% at 7,064.01
+- VIX: 19.08, +9.15% — elevated, risk-off bias persists
 - Today's catalysts:
-  - Iran ceasefire expires Wed; VP Vance traveling to Pakistan for talks — Iran TV says no delegation yet departed; binary risk remains
-  - Apple: Tim Cook stepping down Sept 1, John Ternus (HW engineering SVP) named CEO — transition risk for AAPL
-  - Kevin Warsh Senate Banking hearing for Fed chair nomination — hawkish lean, policy uncertainty
-  - HSBC upgraded INTC to Buy — CPU server demand "near-term catalyst" in Q2 2026
-  - GE Aerospace cut departures outlook; cautious H2 — stock -4%+ premarket despite earnings beat
-  - Alaska Air (ALK) suspended guidance on fuel costs — oil shock rippling through airlines
-- Earnings BMO: UNH beat+raise (+7% stock); GE EPS $1.86 vs $1.61 est (+14% beat), rev $11.6B vs $10.71B est (+29% YoY) — stock -4%+ (sell-the-news / Iran guidance caution); MMM, DHR, HAL, NOC, RTX also reported
-- Economic calendar: No CPI/FOMC/NFP; Pending Home Sales Mar 10am ET; Warsh Senate hearing all day
-- Sector momentum YTD:
-  - Leading: Materials (+22%), Energy, Industrials, Consumer Staples
-  - Improving: Real Estate, Utilities
-  - Lagging: Technology, Financials, Communications, Consumer Discretionary
-  - Healthcare: flight-to-safety outperformer
+  - **Iran ceasefire extended** until Iranian proposal submitted (Trump reversed; negotiators to Pakistan); binary risk deferred, not resolved
+  - **Apple**: Tim Cook stepping down Sept 1, John Ternus (SVP Hardware Eng) named CEO; AAPL -0.5% premarket
+  - **Earnings beats**: UNH +7% (rev $111.7B vs $109.7B est), RTX EPS $1.78 vs $1.52 est (+17%), GE EPS $1.86 vs $1.60 est (+16%)
+  - **Earnings miss**: TSCO -10% (companion animal sales -11%), GE stock -3.16% premarket despite beat (margin compression -200bps, fuel-price risk warning)
+  - **INTC**: HSBC upgraded Buy, PT raised $50→$95 on server CPU demand; +2% to ~$67
+  - Citi warns Brent could reach $110 if Strait of Hormuz disrupted another month
+- Economic calendar: Pending Home Sales (Mar) at 10am ET; no CPI/PPI/FOMC/jobs today
+- Sector momentum YTD: Leaders — Materials (+22%), Energy, Healthcare (flight-to-safety); Laggards — Technology (AI capex doubt), Consumer Discretionary
 
 ### Trade Ideas
-1. **GE (watchlist — no entry today)** — Sell-the-news -4% premarket despite $1.86 EPS beat. If it finds support near $225–$230, could be a high-conviction entry post-ceasefire resolution. Entry: $228–$232, stop: $213 (-7.5%), target: $264 (+15%), R:R ~2:1. Analysts avg target $361 (+19% upside). Do NOT chase gap open — wait for intraday stabilization.
-2. **XOM or CVX (watchlist)** — Energy is leading sector YTD (+). Brent ~$96, Citi $110 risk scenario. Entry on pullback to 50dma with Hormuz catalyst hold. Stop -7% from entry. Need intraday level confirmation.
-3. **INTC (watchlist)** — HSBC Buy upgrade, CPU server Q2 catalyst. Sector headwind (tech lagging) limits conviction. Small size if entering. Would need vol contraction and price confirmation above key resistance.
+1. **RTX** — EPS +17% beat, raised full-year guidance; defense demand structural (Patriot, GEM-T); Hormuz risk = sustained defense premium. Entry on pullback ~$134, stop ~$123 (-8%), target ~$156 (+16%), R:R 2:1. Do not chase gap open.
+2. **INTC** — HSBC Buy upgrade PT $95 vs ~$67 (+42% upside); server CPU shipment growth + price increases Q2 catalyst; +2% today. Entry ~$65–67, stop ~$61 (-9%), target ~$85 (+27%), R:R 3:1. Contrarian vs consensus ($52 avg PT) — higher risk, size small.
+3. **XOM or CVX** — Energy sector leader YTD; Brent ~$96 with $110 tail risk from Hormuz; entry on intraday pullback to support, confirm above 50dma. Need intraday levels.
 
 ### Risk Factors
-- Iran ceasefire expires Wed — binary event; escalation → VIX 25+; de-escalation → relief rally
-- VIX 19 = elevated; reduce size to ≤15% per position if entering
-- GE/airlines flagging oil-driven cost squeeze — consumer discretionary and transport exposed
-- Apple CEO transition uncertainty — tech already lagging; AAPL position unwise
-- Kevin Warsh hawkish lean = potential rate headwind for growth stocks
-- PDT: 0/3 day trades used; preserve capacity
-- Alpaca API inaccessible from cloud — cannot verify live account state; assume no change
+- Iran ceasefire extended but not resolved — escalation risk remains; VIX 25+ scenario intact
+- VIX 19 = elevated; size positions to ~15% max until VIX <16
+- GE stock -3% despite beat signals margin/cost concerns in aerospace — avoid chasing
+- AAPL CEO transition = uncertainty overhang on largest S&P 500 component
+- PDT: 0/3 day trades used — preserve capacity
+- Alpaca API 403 and ClickUp/Perplexity keys missing — manual oversight required
 
 ### Decision
-**HOLD** — Iran ceasefire binary expires tomorrow; VIX 19 = no asymmetric edge today. GE and energy on watchlist for post-ceasefire entry Wednesday or Thursday. INTC secondary watch. Patience > activity.
+**HOLD** — Iran deferred not resolved, VIX 19, market closed down. RTX and INTC on watchlist for Thu entry if ceasefire clarifies and VIX recedes. Patience > activity.
