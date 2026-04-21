@@ -1,6 +1,6 @@
 ---
 
-## 2026-04-21 — Pre-market Research
+## 2026-04-21 — Pre-market Research (Updated Run 2)
 
 > NOTE: Alpaca API 403 from cloud host (IP not in allowlist). Perplexity/ClickUp keys missing (MISSING env vars); research via WebSearch fallback.
 
