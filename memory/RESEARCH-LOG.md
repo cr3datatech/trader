@@ -1,5 +1,30 @@
 ---
 
+## 2026-04-22 — Midday Scan
+
+> NOTE: Alpaca API still unreachable (curl timeout exit 28 — persistent IP/port issue). ClickUp/Perplexity keys MISSING. No Alpaca data available.
+
+### Account (last known)
+- Equity: $100,000 (all cash — confirmed via pre-market log; API down all day)
+- Open positions: none
+- Open orders: none
+
+### Actions Taken
+- **STEP 2**: Alpaca positions/orders calls → both timed out (exit 28). No live data.
+- **STEP 3**: No positions ≤ -7% to cut (0 positions).
+- **STEP 4**: No trailing stops to tighten (0 positions).
+- **STEP 5**: No open thesis to check (0 positions).
+- **STEP 6**: Perplexity key MISSING — no intraday research available.
+- **STEP 7**: ClickUp key MISSING — no notification sent.
+
+### Midday Status
+- HOLD 100% cash — original pre-market decision stands.
+- Ceasefire expiry + Iran "no talks" posture = binary geopolitical event still unresolved.
+- AMC earnings tonight: TSLA, IBM, INTC, TXN — do not enter before close.
+- Re-evaluate Thursday morning after earnings digested and ceasefire outcome known.
+
+---
+
 ## 2026-04-22 — Pre-market Research (Updated Run 3)
 
 > NOTE: Alpaca API curl timeout (persistent — IP unreachable). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
