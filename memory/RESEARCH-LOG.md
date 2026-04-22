@@ -1,5 +1,50 @@
 ---
 
+## 2026-04-22 — Pre-market Research (Updated Run 3)
+
+> NOTE: Alpaca API curl timeout (persistent — IP unreachable). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
+
+### Account
+- Equity: $100,000 (all cash — API unavailable, confirmed from prior entries)
+- Cash: $100,000 (100%)
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- **WTI**: ~$90 (range $88.80–$90.70) | **Brent**: ~$98.13 — near $100 on Hormuz tensions
+- **S&P 500 futures**: ES +0.57% / +40.50 pts premarket to ~7,140.50 — pricing ceasefire extension optimism; one source notes market at all-time highs on peace-deal hopes
+- **VIX**: 18.87 (Apr 21 close) — slight improvement from 19.08–19.50; still elevated
+- **Iran/Hormuz**: Ceasefire EXPIRES today. Trump extended again but Iran says "NO PLANS for next round of negotiations." IRGC fired on container ship in Strait Sunday. Hormuz still under IRGC "strict management." Brent near $100 with $110 tail risk (Citi). Binary risk peaks today.
+- **Earnings BMO today**: PM (Q1 EPS est $1.83, rev $9.85B +6% YoY)
+- **Earnings AMC tonight**: TSLA ($0.37 EPS est, $22.7B rev; delivery miss -7,622 units; prod-delivery gap 50,363 units = rising inventory; energy storage halved 14.2→8.8 GWh; stock ~$387–400, "code red"), IBM (EPS est $1.81, rev $15.6B; -13.5% YTD; RBC expects beat on AI/software strength), NOW (EPS est $0.95, rev $3.75B), TXN (EPS est $1.37, rev $4.52B), BA, LRCX, CSX, T
+- **INTC**: Reports AMC today; up ~50% MTD (best month since 1980); price ~$67; 128× fwd P/E; consensus PT $51 (stock 34% above consensus); 23 holds vs 10 buys — do not enter pre-earnings
+- **RTX**: Reported Apr 21 — EPS +21% to $1.78, rev +8.7% YoY to $22.08B; full-year guidance midpoint $93B (0.5% below est); stock fell 3.7% on guidance; trading ~$187; do not chase
+- **NOC**: Beat Apr 21 — EPS $6.14 (est $6.12), rev $9.88B +4.4% YoY, backlog $95.6B (record); analysts mean PT $736
+- **Economic calendar**: No major releases (no CPI/PPI/FOMC/jobs today)
+- **Sector momentum YTD**: Leaders — Energy (+elevated oil), Industrials/Defense; S&P 500 approaching ATH on ceasefire optimism
+
+### Trade Ideas
+1. **NOC** — Record backlog; structural defense demand while Hormuz closed; beat Q1; analysts mean PT $736. Entry on pullback if ceasefire collapses and defense premium expands, stop ~10% below, target +17%, R:R ~1.9:1. Wait for tonight's ceasefire outcome.
+2. **IBM (post-earnings)** — -13.5% YTD; beaten-down; analysts expect Q1 beat on AI/software (Watson, automation). If beats and guides up tonight → entry opportunity Thu morning. EPS est $1.81, rev $15.6B. R:R 2:1+ if beat confirms momentum reversal.
+3. **TXN (post-earnings)** — Semiconductor; riding server CPU demand with INTC. Reports AMC; $1.37 EPS / $4.52B rev est. If beats → cleaner entry than INTC (far less run-up). Watch closely tonight.
+
+### Risk Factors
+- Iran "no plans for talks" + ceasefire expiry today = maximum binary geopolitical risk
+- IRGC container ship attack Sunday = escalation is NOT theoretical
+- VIX 18.87 still elevated; position sizing ≤15%
+- INTC up 50% MTD at 128× forward P/E = earnings miss would be violent
+- TSLA delivery miss already known; sentiment risk on forward guidance tonight
+- Multiple mega-cap earnings AMC = binary overnight gaps
+- Alpaca API unreachable; ClickUp/Perplexity keys MISSING — manual oversight required
+- PDT: 0/3 day trades — preserve capacity
+
+### Decision
+**HOLD** — Ceasefire expiry + Iran's "no talks" posture = maximum binary event day. VIX 18.87 elevated. Multiple AMC earnings (TSLA, IBM, INTC, TXN) create post-close volatility. Stay 100% cash. Re-evaluate Thursday morning after: (1) ceasefire outcome resolved, (2) TSLA/IBM/INTC/TXN earnings digested. Best-case scenario for entry: ceasefire extends + IBM/TXN beat → NOC or TXN entry Thu. Patience > activity.
+
+---
+
 ## 2026-04-22 — Pre-market Research (Updated Run 2)
 
 > NOTE: Alpaca API curl timeout (IP/port unreachable — persistent). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
