@@ -1,8 +1,8 @@
 ---
 
-## 2026-04-22 — Pre-market Research
+## 2026-04-22 — Pre-market Research (Updated Run 2)
 
-> NOTE: Alpaca API 403 (IP not in allowlist — persistent). Perplexity key MISSING; research via WebSearch fallback. ClickUp keys MISSING — no notification sent.
+> NOTE: Alpaca API curl timeout (IP/port unreachable — persistent). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
 
 ### Account
 - Equity: $100,000 (all cash — prior log; API unavailable 403)
@@ -15,11 +15,11 @@
 ### Market Context
 - **WTI**: ~$89.22 (range $88.80–$90.70) — up sharply on Hormuz tensions
 - **Brent**: ~$98.13 (opened $94.27) — approaching $100 on supply disruption fears
-- **S&P 500 futures**: +0.35% / ~+25 pts premarket; "stocks up ahead of peace talks, Fed nominee hearing" (Schwab)
-- **VIX**: 19.50 (closed Apr 21 +3.34%) — elevated; risk-off bias persists
-- **Iran/Hormuz**: Ceasefire EXPIRES TODAY (Apr 22). Iran reversed reopening decision over weekend; gunboats fired on tanker off Oman coast. US blockade of Iranian ports continues. JD Vance's peace-trip paused (no commitment from Tehran). Strait under "strict management and control" by Iran military. Binary escalation risk is maximum today.
+- **S&P 500 futures**: +0.35% / +25 pts premarket (Dow +0.57%, Nasdaq +0.41%); market pricing ceasefire extension
+- **VIX**: 19.50 (closed Apr 21, +3.34%) — elevated; risk-off bias persists
+- **Iran/Hormuz**: Ceasefire EXTENDED again by Trump ("Tehran seriously fractured") at Pakistan's request. JD Vance trip to join talks paused — no commitment from Tehran. BUT: IRGC fired on container ship in Strait of Hormuz today — escalation risk NOT resolved. US Navy blockade of Iranian ports continues. Strait still under "strict management and control" by IRGC. Binary risk persists.
 - **Earnings today BMO**: PM (Q1 EPS est $1.83, rev $9.85B +6% YoY)
-- **Earnings today AMC**: TSLA ($0.37 EPS est, $22.71B rev est; Q1 deliveries 358K vs 370K est miss; stock -20% YTD), IBM, GEV, NOW, BA, LRCX, VRT, CSX, T
+- **Earnings today AMC**: TSLA ($0.37 EPS est, $22.7B rev est; deliveries 358,023 vs 365,645 est — 7,622-unit miss; 50,363 prod-delivery gap = rising inventory; energy storage halved 14.2→8.8 GWh; stock ~$387-400, -20% YTD; "code red" — Wedbush holds $600 PT on CyberCab thesis), IBM, GEV, NOW, BA, LRCX, VRT, CSX, T
 - **INTC**: Reports earnings Apr 22/23 AMC; stock ~$68.50 (+74% YTD); 11–12% post-earnings swing priced in; 128× forward earnings; 23 holds vs 10 buys; consensus PT $51 (stock 34% above consensus) — VERY high risk pre-earnings
 - **NOC**: Reported Apr 21 — Q1 EPS $6.14 vs $6.12 est (beat), rev $9.88B (+4.4% YoY), operating margin 10% (+4pp YoY). Down 2% past month vs sector +10.3%. Analyst Buy consensus, mean PT $736.
 - **Economic calendar**: No major releases confirmed for Apr 22 (no CPI/PPI/FOMC/jobs)
@@ -31,7 +31,7 @@
 3. **Energy (XOM/HAL)** — Brent $98 with $110 tail risk (Citi) if Hormuz stays closed. Enter only AFTER ceasefire outcome is known; binary event today makes pre-entry reckless.
 
 ### Risk Factors
-- Iran ceasefire expires TODAY — maximum binary risk; escalation = oil spike, VIX spike, market sell-off
+- Iran ceasefire extended but IRGC attacked container ship TODAY — escalation risk is NOT resolved; VIX spike scenario intact
 - VIX 19.50 — elevated; size ≤15% if forced to enter
 - TSLA/INTC earnings AMC — market-moving volatility events tonight
 - S&P 500 only +1.8% YTD; rotation away from mega-cap tech continues
