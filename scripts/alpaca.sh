@@ -12,8 +12,9 @@ if [[ -f "$ENV_FILE" ]]; then
   set +a
 fi
 
-: "${ALPACA_ENDPOINT:?ALPACA_ENDPOINT not set in environment}"
-: "${ALPACA_DATA_ENDPOINT:?ALPACA_DATA_ENDPOINT not set in environment}"
+ALPACA_ENDPOINT="${ALPACA_ENDPOINT:-https://paper-api.alpaca.markets/v2}"
+ALPACA_DATA_ENDPOINT="${ALPACA_DATA_ENDPOINT:-https://data.alpaca.markets/v2}"
+
 : "${ALPACA_API_KEY:?ALPACA_API_KEY not set in environment}"
 : "${ALPACA_SECRET_KEY:?ALPACA_SECRET_KEY not set in environment}"
 
