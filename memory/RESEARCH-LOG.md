@@ -1,5 +1,49 @@
 ---
 
+## 2026-04-22 — Pre-market Research
+
+> NOTE: Alpaca API 403 (IP not in allowlist — persistent). Perplexity key MISSING; research via WebSearch fallback. ClickUp keys MISSING — no notification sent.
+
+### Account
+- Equity: $100,000 (all cash — prior log; API unavailable 403)
+- Cash: $100,000 (100%)
+- Buying power: $200,000 (2× margin)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- **WTI**: ~$89.22 (range $88.80–$90.70) — up sharply on Hormuz tensions
+- **Brent**: ~$98.13 (opened $94.27) — approaching $100 on supply disruption fears
+- **S&P 500 futures**: +0.35% / ~+25 pts premarket; "stocks up ahead of peace talks, Fed nominee hearing" (Schwab)
+- **VIX**: 19.50 (closed Apr 21 +3.34%) — elevated; risk-off bias persists
+- **Iran/Hormuz**: Ceasefire EXPIRES TODAY (Apr 22). Iran reversed reopening decision over weekend; gunboats fired on tanker off Oman coast. US blockade of Iranian ports continues. JD Vance's peace-trip paused (no commitment from Tehran). Strait under "strict management and control" by Iran military. Binary escalation risk is maximum today.
+- **Earnings today BMO**: PM (Q1 EPS est $1.83, rev $9.85B +6% YoY)
+- **Earnings today AMC**: TSLA ($0.37 EPS est, $22.71B rev est; Q1 deliveries 358K vs 370K est miss; stock -20% YTD), IBM, GEV, NOW, BA, LRCX, VRT, CSX, T
+- **INTC**: Reports earnings Apr 22/23 AMC; stock ~$68.50 (+74% YTD); 11–12% post-earnings swing priced in; 128× forward earnings; 23 holds vs 10 buys; consensus PT $51 (stock 34% above consensus) — VERY high risk pre-earnings
+- **NOC**: Reported Apr 21 — Q1 EPS $6.14 vs $6.12 est (beat), rev $9.88B (+4.4% YoY), operating margin 10% (+4pp YoY). Down 2% past month vs sector +10.3%. Analyst Buy consensus, mean PT $736.
+- **Economic calendar**: No major releases confirmed for Apr 22 (no CPI/PPI/FOMC/jobs)
+- **Sector momentum YTD**: Leaders — Energy, Real Estate, Industrials (earlier). Laggards — Technology, Consumer Discretionary, Financials. S&P 500 +1.8% YTD.
+
+### Trade Ideas
+1. **NOC** — Beat Q1 earnings; record $95.6B backlog; structural defense demand structurally elevated while Hormuz closed. But down 2% vs sector's +10.3% — relative underperformer. Entry ~$490–505 on pullback if ceasefire fails to extend (defense premium expands), stop ~$450 (-10%), target ~$580–600 (+17%), R:R ~1.9:1. DO NOT enter today — wait for ceasefire resolution clarity (pass or escalate).
+2. **Post-TSLA reaction play** — TSLA reports AMC tonight. If TSLA beats (>$0.37 EPS + margin >17%) and stock gaps +8%+, consider riding consumer discretionary or broader market momentum next day. Not a TSLA trade — use reaction to gauge market tone.
+3. **Energy (XOM/HAL)** — Brent $98 with $110 tail risk (Citi) if Hormuz stays closed. Enter only AFTER ceasefire outcome is known; binary event today makes pre-entry reckless.
+
+### Risk Factors
+- Iran ceasefire expires TODAY — maximum binary risk; escalation = oil spike, VIX spike, market sell-off
+- VIX 19.50 — elevated; size ≤15% if forced to enter
+- TSLA/INTC earnings AMC — market-moving volatility events tonight
+- S&P 500 only +1.8% YTD; rotation away from mega-cap tech continues
+- INTC at 128× forward earnings is uninvestable pre-earnings at this price
+- Alpaca API 403 and ClickUp/Perplexity keys MISSING — manual oversight required
+- PDT: 0/3 day trades used — preserve capacity
+
+### Decision
+**HOLD** — Ceasefire expires today = maximum binary event risk. VIX 19.50. Multiple AMC earnings (TSLA, INTC) create additional volatility. Stay 100% cash. Re-evaluate Thursday morning after: (1) ceasefire outcome known, (2) TSLA/INTC earnings digested. If ceasefire fails and VIX spikes >25 → wait for VIX reversal. If ceasefire extends and TSLA beats → consider NOC or energy entry Thu–Fri. Patience > activity.
+
+---
+
 ## 2026-04-21 — Pre-market Research (Run 4)
 
 > NOTE: Alpaca API 403 (IP not in allowlist — persistent). Perplexity/ClickUp keys MISSING; research via WebSearch fallback.
