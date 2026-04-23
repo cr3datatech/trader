@@ -1,5 +1,49 @@
 ---
 
+## 2026-04-23 — Pre-market Research
+
+> NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout on all endpoints (3rd consecutive session). Perplexity/ClickUp keys missing; research via WebSearch fallback.
+
+### Account
+- Equity: $100,000 (unchanged — all cash, no positions; API unreachable)
+- Cash: $100,000 (100%)
+- Buying power: $200,000 (2× margin, estimated)
+- Daytrade count: 0
+- Open positions: none (confirmed prior sessions)
+- Open orders: none (confirmed prior sessions)
+- **CRITICAL: Alpaca proxy unreachable 3 consecutive sessions — cannot execute trades**
+
+### Market Context
+- **Oil:** WTI ~$94.06 (+1.18%); Brent ~$102.96 (+~1.0%) — Hormuz risk premium persists
+- **S&P 500:** Futures pointing higher; market rebounding on ceasefire extension; S&P hitting new record highs; tech sector +11% MTD
+- **VIX:** 19.50 (Apr 22 close) — still elevated but improving
+- **Catalysts today:**
+  - Ceasefire extended (Iran/US) — binary risk deferred, not resolved; market rallying
+  - **INTC earnings today:** Stock +74% YTD at ~$68.50; 11-12% swing priced in — avoid pre-earnings
+  - **LMT earnings today** — defense sector, watch for guidance raise
+  - Also reporting: AXP, NEE, TMO, HON, UNP, BX, CMCSA, FCX, GILD, NEM
+  - **TSLA earnings tonight (AMC)**
+- **Economic calendar:** Initial Claims, Continuing Claims, S&P Global Manufacturing & Services PMI — no CPI/PPI/FOMC/NFP today
+- **Sector momentum YTD:** Leaders — Materials (+22%), Energy, Industrials, Consumer Staples; Lagging — Technology (cooling), Consumer Discretionary
+
+### Trade Ideas
+1. **INTC (post-earnings watch)** — +74% YTD at $68.50; earnings today, 11-12% swing priced in; HSBC PT $95. DO NOT enter pre-earnings. If beats + guides up: entry next session ~$70–75, stop ~$63 (-10%), target ~$90 (+20%), R:R ~2:1.
+2. **LMT** — Reporting today; Brent $103 + Hormuz premium sustains defense demand. Watch for beat + guidance raise. Post-print entry ~$480–490, stop ~$440 (-9%), target ~$575 (+18%), R:R 2:1.
+3. **CVX / XOM** — Energy sector leading YTD; Brent $103 elevated; ceasefire stall = continued energy premium. Entry on intraday pullback to support above 50dma. Need live price data (API down).
+
+### Risk Factors
+- VIX 19.5 — keep sizing ≤15% until VIX <17
+- Alpaca proxy UNREACHABLE for 3rd consecutive session — cannot execute; CRITICAL infrastructure failure
+- INTC 11-12% earnings swing = avoid pre-earnings; binary event
+- TSLA earnings tonight = potential broad volatility tomorrow
+- Ceasefire "extended" not "resolved" — oil escalation tail risk remains
+- PDT: 0/3 day trades used — preserve capacity
+
+### Decision
+**HOLD** — Alpaca proxy down; cannot trade regardless. INTC earnings = binary risk; LMT/energy need post-print clarity. Priority: resolve API connectivity. Watchlist: INTC and LMT post-earnings reaction, CVX/XOM energy on pullback.
+
+---
+
 ## 2026-04-22 — Midday Scan
 
 > NOTE: Alpaca API still unreachable (curl timeout exit 28 — persistent IP/port issue). ClickUp/Perplexity keys MISSING. No Alpaca data available.
