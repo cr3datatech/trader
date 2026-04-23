@@ -26,3 +26,12 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —    | —    | —      | —      |  — |
 
 **Notes:** Market-open execution attempted. Alpaca proxy (http://178.104.75.110:8080) still unreachable (timeout, exit 124). Direct paper-api.alpaca.markets returns 403 — API key is bound to proxy. No trades executable. Research log for today already complete (pre-market run); watchlist: INTC post-earnings, LMT post-earnings, CVX/XOM on pullback. Weekly trade count: 0/3. No ClickUp notification (keys missing). CRITICAL: resolve proxy connectivity and env var injection before session 5.
+
+### Apr 23 — Midday Scan (Day 2, Thursday)
+**Portfolio:** N/A | **Cash:** N/A (API unreachable — 5th consecutive session)
+
+- Alpaca proxy (http://178.104.75.110:8080) timeout on both `positions` and `orders` calls (exit 28).
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- No action taken. All cash. Watchlist unchanged: INTC, LMT, CVX/XOM.
+- CRITICAL: proxy and env var injection still broken — 5 sessions with zero trades executable.
