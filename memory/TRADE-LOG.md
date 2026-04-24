@@ -46,3 +46,14 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —     | —       | —              | —    |
 
 **Notes:** Day 2 EOD. Alpaca proxy (http://178.104.75.110:8080) timeout (exit 124) — 6th consecutive session with no API access. Direct paper-api.alpaca.markets returns 403 (key bound to proxy). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all missing — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline. Week: 0/3 trades. CRITICAL: proxy and env var injection must be fixed before any trading can occur. Tomorrow's P&L baseline: $100,000 (unchanged from Day 0).
+
+---
+
+### Apr 24 — Market-Open (Day 3, Friday)
+**Portfolio:** N/A | **Cash:** N/A (API unreachable — 8th consecutive session)
+
+| Ticker | Shares | Entry | Fill | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|------|--------|--------|-----|
+| —      | —      | —     | —    | —    | —      | —      |  — |
+
+**Notes:** Market-open execution attempted. Alpaca proxy (http://178.104.75.110:8080) timeout (exit 124) — 8th consecutive session. No live data; no trades executable. Pre-market decision was HOLD regardless: VIX 19.5 (elevated), Brent $105 (Hormuz risk), TXN +19% gap (no chase — wait Mon/Tue consolidation), SLB pending earnings print, NOC patient entry. Weekly trade count: 0/3. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp notification skipped. CRITICAL: proxy and env var injection broken 8 sessions — zero trades executed since bot launch.
