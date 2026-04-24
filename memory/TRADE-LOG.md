@@ -57,3 +57,12 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —    | —    | —      | —      |  — |
 
 **Notes:** Market-open execution attempted. Alpaca proxy (http://178.104.75.110:8080) timeout (exit 124) — 8th consecutive session. No live data; no trades executable. Pre-market decision was HOLD regardless: VIX 19.5 (elevated), Brent $105 (Hormuz risk), TXN +19% gap (no chase — wait Mon/Tue consolidation), SLB pending earnings print, NOC patient entry. Weekly trade count: 0/3. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp notification skipped. CRITICAL: proxy and env var injection broken 8 sessions — zero trades executed since bot launch.
+
+### Apr 24 — Midday Scan (Day 3, Friday)
+**Portfolio:** N/A | **Cash:** N/A (API unreachable — 9th consecutive session)
+
+- Alpaca proxy (http://178.104.75.110:8080) timeout (exit 124) — positions and orders both unreachable.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- Strategy still HOLD: Hormuz unresolved, Brent ~$105, VIX elevated. TXN consolidation watch for Mon–Tue. SLB post-earnings read pending. NOC patient entry.
+- No action taken. All cash. Weekly: 0/3 trades.
