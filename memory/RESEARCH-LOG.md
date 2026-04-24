@@ -1,5 +1,50 @@
 ---
 
+## 2026-04-24 — Pre-market Research
+
+> NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout on all endpoints (7th consecutive session). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (unchanged — all cash, no positions, API unreachable)
+- Cash: $100,000 (100%)
+- Buying power: $200,000 (2× margin assumed)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- **WTI**: ~$96.17 (+0.32%); **Brent**: ~$105.73 (+0.63%) — Brent above $100 for first time this cycle
+- **S&P 500 futures**: ES 7,141.75 (-0.02% flat); Thu close 7,108.40 (-0.41%); Nasdaq -0.89% Thu
+- **VIX**: ~19.31-19.50 — elevated; risk-off bias persists; down from 31 peak in late March
+- **Iran/Hormuz**: Ceasefire extended (Israel-Lebanon +3 weeks per Trump); but Strait of Hormuz still effectively closed — Iran seized 2 ships, attacked 3 others Thursday; Trump ordered military to "shoot and kill" mine-laying boats; no timeline on deal; binary escalation risk live
+- **Today's releases**: U of Michigan Consumer Sentiment (final April); no CPI/PPI/FOMC/GDP/PCE/jobs
+- **Earnings today (Apr 24 BMO)**:
+  - **PG**: EPS $1.88 vs $1.86 est (beat); Rev $22.21B vs $22.30B est (miss); FY guidance maintained; stock -1.67%
+  - Others reporting: CHTR, HCA, NSC, SLB (oilfield services — watch for energy catalyst)
+- **TXN** (Thu after close): Q1 revenue $4.83B (+19% YoY), EPS $1.68 — wide beat; Q2 guide $5.0B-$5.4B vs $4.87B est; data center analog revenue +90% YoY; stock +19% Thu — largest single-day gain since 2000; B of A upgraded Buy, PT $320; Stifel upgraded Buy, PT $250
+- **Meta**: 10% workforce cut (~8,000 jobs), AI cost-offset rationale; stock -2.3% Thu
+- **Microsoft**: -3.97% Thu (software sector drag)
+- **Sector momentum YTD**: Leaders — Materials (+22%), Energy, Healthcare, Consumer Staples, Industrials; Laggards — Technology, Communications, Consumer Discretionary, Financials
+
+### Trade Ideas
+1. **TXN** — Analog upcycle confirmed; data center +90% YoY; massive beat + guide-up; two analyst upgrades; B of A PT $320 (+33% from Thu close ~$240). Entry on pullback to ~$225–235 post-gap consolidation (likely next week), stop ~$210 (-9%), target ~$295 (+27%), R:R ~3:1. Do NOT chase +19% gap. Wait for 2-3 session consolidation.
+2. **SLB** — Oilfield services earnings today; Brent $105+ with Hormuz closed = sustained margin tailwind; Energy sector YTD leader. Entry post-print if beat confirmed, ~$47–49, stop -9%, target +20%, R:R ~2.2:1. Watchlist pending earnings print.
+3. **NOC** — Defense structural demand from Hormuz crisis; $95.6B record backlog; Industrials sector leader. Entry ~$490–500 on pullback, stop ~$449 (-9%), target ~$580 (+17%), R:R ~1.9:1. Patience on entry — no chasing.
+
+### Risk Factors
+- Hormuz still closed — Brent $105, $110+ tail risk from Citi; binary escalation scenario intact
+- VIX 19.5 = elevated; size ≤15% per position until VIX < 17
+- Meta/MSFT software drag — avoid Technology and Communications sectors
+- PG revenue miss signals consumer caution — avoid Consumer Discretionary
+- TXN gapped +19% — chasing at top = high stop-out risk
+- PDT: 0/3 day trades used — preserve capacity
+- CRITICAL: Alpaca proxy down 7 sessions; no trades executable; resolve proxy before Monday
+
+### Decision
+**HOLD** — Binary Iran/Hormuz risk unresolved, Brent $105, VIX 19.5, API still broken. TXN on watchlist for Mon–Tue entry after gap consolidates. SLB pending today's print. NOC patient entry. No new trades today — patience > activity.
+
+---
+
 ## 2026-04-23 — Pre-market Research
 
 > NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout on all endpoints (3rd consecutive session). Perplexity/ClickUp keys missing; research via WebSearch fallback.
