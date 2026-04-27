@@ -66,3 +66,14 @@ No positions yet. Bot launches tomorrow.
 - PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
 - Strategy still HOLD: Hormuz unresolved, Brent ~$105, VIX elevated. TXN consolidation watch for Mon–Tue. SLB post-earnings read pending. NOC patient entry.
 - No action taken. All cash. Weekly: 0/3 trades.
+
+---
+
+### Apr 27 — Midday Scan (Day 4, Monday)
+**Portfolio:** N/A | **Cash:** N/A (API unreachable — 10th consecutive session)
+
+- Alpaca proxy (http://178.104.75.110:8080) timeout (exit 28) — positions and orders both unreachable.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- No action taken. All cash. Week 2: 0/3 trades.
+- CRITICAL: proxy and env var injection still broken — 10 sessions with zero trades executable.
