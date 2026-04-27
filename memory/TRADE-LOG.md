@@ -77,3 +77,14 @@ No positions yet. Bot launches tomorrow.
 - PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
 - No action taken. All cash. Week 2: 0/3 trades.
 - CRITICAL: proxy and env var injection still broken — 10 sessions with zero trades executable.
+
+---
+
+### Apr 27 — EOD Snapshot (Day 4, Monday)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 4 EOD. Alpaca proxy (http://178.104.75.110:8080) timeout (exit 28) — 11th consecutive session with no API access. Direct paper-api.alpaca.markets returns 403 (keys bound to proxy). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all missing — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline. Week 2: 0/3 trades. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: proxy and all env vars must be restored before any trading can occur.
