@@ -12,7 +12,7 @@ if [[ -f "$ENV_FILE" ]]; then
   set +a
 fi
 
-##ALPACA_ENDPOINT="${ALPACA_ENDPOINT:-https://paper-api.alpaca.markets/v2}"
+# ALPACA_ENDPOINT="${ALPACA_ENDPOINT:-https://paper-api.alpaca.markets/v2}"
 ALPACA_ENDPOINT="${ALPACA_ENDPOINT:-http://178.104.75.110:8080/v2/}"
 ALPACA_DATA_ENDPOINT="${ALPACA_DATA_ENDPOINT:-https://data.alpaca.markets/v2}"
 
