@@ -112,3 +112,14 @@ No positions yet. Bot launches tomorrow.
 - Watch: V post-earnings print (today) — strong beat + raised guidance = cleanest setup for Thu–Fri entry after FOMC. NOC, INTC still on watchlist.
 - No action taken. All cash. Week 2: 0/3 trades.
 - CRITICAL: Alpaca 403 and env var injection broken 14 sessions — zero trades executed since launch.
+
+---
+
+### Apr 28 — EOD Snapshot (Day 5, Tuesday)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 5 EOD. Alpaca returning 403 on all endpoints (account, positions, orders) — 15th consecutive session with no API access. Keys bound to unreachable proxy at 178.104.75.110:8080; direct paper-api.alpaca.markets returns 403. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 2: 0/3 trades. Tomorrow is FOMC day (Apr 29) — hard HOLD regardless of API status; no new positions until post-Fed clarity. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: proxy and all env vars must be restored before any trading can occur.
