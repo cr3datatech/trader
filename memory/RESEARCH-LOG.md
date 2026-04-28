@@ -1,5 +1,48 @@
 ---
 
+## 2026-04-28 — Pre-market Research
+
+> NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout (12th consecutive session). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (baseline — no live data, API unreachable)
+- Cash: $100,000 (100% all-cash)
+- Buying power: ~$200,000 (2× margin)
+- Daytrade count: 0/3
+- Open positions: none (confirmed from log history)
+- Open orders: none
+- Week 2 trades: 0/3
+
+### Market Context
+- **WTI:** ~$96.13/bbl (+volatile); **Brent:** ~$105–108/bbl (hit $108.11 Apr 27, +2.64%)
+- **S&P 500 futures:** ES ~7,203 (opened 7,178, range 7,178–7,209); market leaning slightly higher on Iran peace-talk hopes + earnings optimism
+- **VIX:** ~19.0–19.3 — elevated; risk-off bias persists; below 20 but not comfortable
+- **Geopolitical:** US-Iran ceasefire fragile — Islamabad talks collapsed (Trump cancelled envoy visit); indirect comms via Pakistan/Russia ongoing; Hormuz partially restricted; binary escalation risk NOT resolved
+- **Earnings today (BMO):** UPS, GM, KO, BP, SPOT, AMT, SPGI, V, SHW, WM, WELL — 198 total reporters Tuesday; 84% of Q1 S&P reporters beating EPS (historically strong)
+- **INTC Q1 (Apr 23):** EPS $0.29 vs $0.01 est (+2,800%!); rev $13.58B vs $12.42B; stock +80% YTD — already extended, post-earnings gap likely priced
+- **NOC Q1 (Apr 21):** Beat estimates ($6.14 vs $6.06 EPS), but no upside guidance revision → stock -14% in 30 days; defense sector rotating
+- **Economic calendar today:** Consumer Confidence 10am ET, Richmond Fed Mfg 10am, Dallas Fed Retail 10:30am
+- **This week (critical):** FOMC Wednesday, BoJ Tuesday, ECB Thursday; GDP 1st release + Employment Cost Index + Initial Claims April 30 — extreme macro risk week
+- **Sector momentum YTD:** Energy +25% (but -9% MTD pullback), Comms Services +5%, Industrials positive; Consumer Discretionary lagging; Russell 2000 +9.7% YTD (small-cap leadership)
+
+### Trade Ideas
+1. **INTC** — Q1 massive beat; thesis intact (server CPU demand, price increases Q2). BUT: +80% YTD, stock extended, post-earnings gap likely. Wait for pullback to ~$85–90 support before considering entry. Not actionable today.
+2. **V (Visa)** — Reporting BMO today; consumer spending resilient (84% S&P beats), Visa benefits from high nominal spend. If beat + raised guidance: entry ~$330–340, stop ~$305 (-8%), target ~$390 (+17%), R:R ~2.1:1. Watch print before committing.
+3. **HAL (Halliburton)** — Energy sector YTD leader; Brent $105–108 sustains oilfield services pricing power. MTD pullback (-9% sector) may create re-entry opportunity. Wait for Hormuz clarity + post-FOMC. Watchlist only.
+
+### Risk Factors
+- **FOMC Wednesday** — do NOT open new positions before Fed decision; rate path uncertainty
+- VIX ~19 — keep sizing ≤15% if/when entering
+- Iran/Hormuz ceasefire fragile — talks failed; binary escalation risk; energy/defense remain volatile
+- NOC -14% post-earnings confirms: beating EPS not enough if guidance flat — avoid defense names near-term
+- INTC extended (+80% YTD); chasing here = poor R:R
+- PDT: 0/3 day trades used — preserve capacity
+
+### Decision
+**HOLD** — FOMC Wednesday is a wall; no new positions before the Fed decision. VIX 19, Hormuz unresolved, market in peak earnings-week volatility. Watch Visa print closely — if strong beat + raised guidance, V is the cleanest actionable setup for Thu–Fri entry post-FOMC. Patience > activity.
+
+---
+
 ## 2026-04-24 — Pre-market Research
 
 > NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout on all endpoints (7th consecutive session). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
