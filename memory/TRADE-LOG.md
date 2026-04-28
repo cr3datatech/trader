@@ -88,3 +88,14 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —     | —       | —              | —    |
 
 **Notes:** Day 4 EOD. Alpaca proxy (http://178.104.75.110:8080) timeout (exit 28) — 11th consecutive session with no API access. Direct paper-api.alpaca.markets returns 403 (keys bound to proxy). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all missing — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline. Week 2: 0/3 trades. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: proxy and all env vars must be restored before any trading can occur.
+
+---
+
+### Apr 28 — Market-Open (Day 5, Tuesday)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 13th consecutive session)
+
+| Ticker | Shares | Entry | Fill | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|------|--------|--------|-----|
+| —      | —      | —     | —    | —    | —      | —      |  — |
+
+**Notes:** Market-open execution attempted. Alpaca returning 403 (keys bound to proxy at 178.104.75.110:8080) — 13th consecutive session with no API access. Research decision: **HOLD** — FOMC Wednesday is a hard wall; no new positions until post-Fed clarity. VIX ~19, US-Iran Hormuz ceasefire fragile (Islamabad talks collapsed), peak earnings-week macro risk. Watch Visa (V) print today — if strong beat + raised guidance, V is cleanest setup for Thu–Fri entry post-FOMC. Week 2: 0/3 trades. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp notification skipped.
