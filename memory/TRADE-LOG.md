@@ -99,3 +99,16 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —    | —    | —      | —      |  — |
 
 **Notes:** Market-open execution attempted. Alpaca returning 403 (keys bound to proxy at 178.104.75.110:8080) — 13th consecutive session with no API access. Research decision: **HOLD** — FOMC Wednesday is a hard wall; no new positions until post-Fed clarity. VIX ~19, US-Iran Hormuz ceasefire fragile (Islamabad talks collapsed), peak earnings-week macro risk. Watch Visa (V) print today — if strong beat + raised guidance, V is cleanest setup for Thu–Fri entry post-FOMC. Week 2: 0/3 trades. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp notification skipped.
+
+---
+
+### Apr 28 — Midday Scan (Day 5, Tuesday)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 14th consecutive session)
+
+- Alpaca 403 on both `positions` and `orders` — keys still bound to unreachable proxy.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- Strategy: HOLD. FOMC tomorrow (Wed Apr 29) is hard wall — no new entries until post-Fed clarity.
+- Watch: V post-earnings print (today) — strong beat + raised guidance = cleanest setup for Thu–Fri entry after FOMC. NOC, INTC still on watchlist.
+- No action taken. All cash. Week 2: 0/3 trades.
+- CRITICAL: Alpaca 403 and env var injection broken 14 sessions — zero trades executed since launch.
