@@ -1,5 +1,50 @@
 ---
 
+## 2026-04-29 — Pre-market Research (FOMC Day)
+
+> NOTE: Alpaca API returning 403 — 16th consecutive session (keys bound to proxy at 178.104.75.110:8080). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (all-cash baseline, unchanged from Day 0)
+- Cash: $100,000 (100%)
+- Buying power: ~$200,000 (2× margin)
+- Daytrade count: 0/3
+- Open positions: none
+- Open orders: none
+- Week 2 trades: 0/3
+
+### Market Context
+- **WTI:** $99.32 (-0.61%); **Brent:** ~$111.16 (+2.71% on Apr 28) — highest levels since Hormuz crisis began
+- **S&P 500 futures:** ES ~7,109 area; futures down ~0.6% on Apr 28 on AI-spend skepticism; direction uncertain pre-FOMC
+- **VIX:** 19.02–19.31 (Apr range: 16.87–31.52 avg 20.96) — elevated; risk-off bias persists
+- **FOMC (2pm ET today):** 100% probability of HOLD at 3.5%–3.75% (CME FedWatch); Jerome Powell's FINAL meeting as chair; Kevin Warsh Senate Banking Committee vote today for next Fed chair — adds policy uncertainty overhang
+- **Economic releases today:** Durable Goods, Housing Starts, Building Permits, New Home Sales, EIA Crude Oil Inventories, MBA Mortgage Apps
+- **Iran/Hormuz:** Dual blockade active — Iran reimposed full closure Apr 21; Iran's latest proposal (open strait if US lifts naval blockade, delay nuclear talks) unlikely accepted by US; strait effectively closed; Brent $111 reflects sustained disruption; CPI jumped to 3.3% (highest since May 2024) on energy shock
+- **Mag-4 earnings after close tonight:** META, GOOGL, AMZN, MSFT all report — collective AI CapEx ~$600–645B in 2026; market wants proof AI spend is converting to revenue/margins; AAPL reports Apr 30
+- **Visa (V):** Beat Q2 Apr 28; Rev $11.2B (+17% YoY, highest since 2022); EPS $3.31 vs $3.16 est; $20B buyback; stock +5.4% to ~$326 — watchlist thesis confirmed
+- **NOC:** Q1 beat ($9.9B rev, $6.14 EPS, $95.6B backlog) but stock -13.5% to ~$576 on B-21 bomber cost overruns and capex concerns — thesis weakened, removing from active watchlist
+- **Sector momentum YTD:** Leaders — Energy (+22%), Materials, Industrials, Healthcare, Consumer Staples; Laggards — Technology (AI-capex doubt), Communications, Consumer Discretionary, Financials
+
+### Trade Ideas
+1. **Visa (V)** — Q2 beat (Rev +17%, $20B buyback, $326); payment networks track consumer spending not oil/geopolitics; cleanest large-cap setup on watchlist. Entry ~$320–325 on post-FOMC pullback Thu morning; stop ~$296 (-9%); target ~$380 (+17%); R:R ~2:1. Size ≤15% (VIX >17).
+2. **Energy (XOM or CVX)** — Sector YTD leader (+22%); Brent $111, WTI $99; Hormuz dual-blockade = structural supply disruption with no near-term resolution; EIA inventory print today could catalyze move. Entry on post-FOMC dip to support; stop 10%; target 20%+. Watch EIA 10:30am ET print first.
+3. **MSFT (post-earnings, Thu)** — Tonight's Azure growth rate = AI capex proof-of-concept for entire Tech sector; if beat + guidance raise, MSFT gap-up entry Thu morning. Do NOT buy before print — binary risk. Evaluate Thursday.
+
+### Risk Factors
+- FOMC 2pm = no new entries before decision; post-decision volatility (sell-the-news even on hold)
+- Mag-4 earnings tonight = overnight binary risk on largest S&P components; market-moving in either direction
+- Hormuz dual blockade escalation tail risk (VIX 31 scenario still intact)
+- CPI 3.3% = stagflation concern; Powell presser tone matters
+- Kevin Warsh nomination vote = Fed independence uncertainty
+- NOC removed from watchlist (cost overrun red flag on fixed-price B-21 contracts)
+- PDT: 0/3 day trades used — preserve capacity
+- Alpaca API and all notification keys MISSING — manual oversight required
+
+### Decision
+**HOLD** — Hard wall: FOMC 2pm + Mag-4 earnings tonight create binary overnight risk. Best action window is **Thursday morning** after Fed reaction + earnings prints settle. Visa (V) is top candidate for first trade of Week 2 if conditions favorable Thu. Energy (XOM/CVX) as second idea if EIA draw confirms supply tightness. Patience > activity.
+
+---
+
 ## 2026-04-28 — Pre-market Research
 
 > NOTE: Alpaca proxy (178.104.75.110:8080) unreachable — exit 28 timeout (12th consecutive session). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
