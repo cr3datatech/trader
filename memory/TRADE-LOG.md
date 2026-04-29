@@ -123,3 +123,16 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —     | —       | —              | —    |
 
 **Notes:** Day 5 EOD. Alpaca returning 403 on all endpoints (account, positions, orders) — 15th consecutive session with no API access. Keys bound to unreachable proxy at 178.104.75.110:8080; direct paper-api.alpaca.markets returns 403. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 2: 0/3 trades. Tomorrow is FOMC day (Apr 29) — hard HOLD regardless of API status; no new positions until post-Fed clarity. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: proxy and all env vars must be restored before any trading can occur.
+
+---
+
+### Apr 29 — Midday Scan (Day 6, Wednesday — FOMC Day)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 17th consecutive session)
+
+- Alpaca 403 on both `positions` and `orders` — keys still bound to unreachable proxy.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- **Strategy: HARD HOLD.** FOMC decision 2pm ET today — 100% probability of hold at 3.5%–3.75%. Powell presser follows. Mag-4 earnings (META, GOOGL, AMZN, MSFT) after close tonight — binary overnight risk; no new entries before prints settle.
+- **Watch Thursday:** V (~$326, beat + $20B buyback) top candidate for first trade post-FOMC clarity. Energy (XOM/CVX) second if EIA confirms supply tightness. MSFT gap-up entry if Azure growth confirms AI revenue conversion.
+- No action taken. All cash. Week 2: 0/3 trades.
+- CRITICAL: Alpaca 403 and env var injection broken 17 sessions — zero trades executed since launch.
