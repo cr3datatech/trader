@@ -136,3 +136,14 @@ No positions yet. Bot launches tomorrow.
 - **Watch Thursday:** V (~$326, beat + $20B buyback) top candidate for first trade post-FOMC clarity. Energy (XOM/CVX) second if EIA confirms supply tightness. MSFT gap-up entry if Azure growth confirms AI revenue conversion.
 - No action taken. All cash. Week 2: 0/3 trades.
 - CRITICAL: Alpaca 403 and env var injection broken 17 sessions — zero trades executed since launch.
+
+---
+
+### Apr 29 — EOD Snapshot (Day 6, Wednesday — FOMC Day)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 6 EOD — FOMC day. Alpaca returning 403 ("Host not in allowlist") on all endpoints — 18th consecutive session with no API access. Proxy at 178.104.75.110 is forwarding to Alpaca but that IP is no longer on the allowlist either. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. Strategy was HARD HOLD regardless: FOMC decision (hold at 3.5%–3.75% expected) + Mag-4 earnings (META, GOOGL, AMZN, MSFT) after close — binary overnight risk precluded any entries. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 2: 0/3 trades. Tomorrow (Thu Apr 30): post-FOMC + earnings clarity window opens — V (~$326, strong beat + $20B buyback) top candidate for first trade if tape is constructive. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: Alpaca IP allowlist and env var injection broken 18 sessions — zero trades executable until infrastructure is restored.
