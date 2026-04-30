@@ -52,6 +52,14 @@
 ### Decision
 **HOLD** — Iran escalation at $126 Brent is too unpredictable; GDP/PCE data drops at 8:30 before open. Even if Alpaca were operational: wait for 8:30 macro prints, assess VIX reaction, and only consider NOC or V pullback entries after 10am ET when price action confirms. No new trades pre-data. Patience > activity.
 
+### Afternoon Addendum (Midday Scan)
+- **NOC**: ~$589.68 at 2:24pm EDT (-3.51% intraday) — entry zone $570-575 has already passed; stock ran past our target entry. If it fades back toward $572-575 tomorrow, re-evaluate thesis: Iran risk premium still intact, B-21/Sentinel backlog $95.6B, analyst PT $743.
+- **AAPL**: Q2 report after close today (est. EPS $1.94, rev $109.69B). Tim Cook's final quarter as CEO. UBS points to iPhone strength. Binary risk — market direction tomorrow depends partly on this print.
+- **GOOGL**: +6% AH Apr 29; if gap holds into close today, potential continuation setup Friday.
+- **V**: Still watching $320-325 pullback; gapped to ~$334 on Apr 29 beat; no pullback observed yet.
+- **Market**: S&P 500 and Nasdaq near record highs (7,173.91 / 24,887.10 as of Apr 26). Iran risk deferred not resolved — Brent remains elevated. VIX near 20.
+- **Actionable post-AAPL print (if beat + clean guidance):** V pullback to $320-325 and/or GOOGL gap-and-hold are best first-trade candidates for Friday morning. Size at 12-15% max given VIX ~20. Alpaca must be restored for any execution.
+
 ---
 
 ## 2026-04-29 — Pre-market Research (FOMC Day)

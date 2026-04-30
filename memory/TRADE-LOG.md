@@ -150,6 +150,23 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Apr 30 — Midday Scan (Day 7, Thursday — Post-FOMC + Iran Escalation)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 21st consecutive session)
+
+- Alpaca 403 on `positions` and `orders` — keys still bound to unreachable proxy at 178.104.75.110.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- **Midday price checks (via WebSearch):**
+  - NOC: ~$589.68 (-3.51% intraday, Apr 30 2:24pm EDT) — our entry zone $570-575 already cleared; now running. Monitor for any fade back to $575.
+  - AAPL: Reports Q2 after close today (est. EPS $1.94, rev $109.69B); binary risk into close — do not initiate anything.
+  - V: Still watching $320-325 pullback entry; no data on pullback yet; do not chase $334+ gap.
+  - GOOGL: +6% AH yesterday; watching gap-hold above prior close at open; need intraday confirmation.
+- **Strategy: HOLD.** AAPL binary print tonight is a macro risk for Nasdaq/S&P — no entries before that resolves. If AAPL beats cleanly, tomorrow morning opens a trade window (V pullback or GOOGL continuation).
+- No action taken. All cash. Week 2: 0/3 trades.
+- CRITICAL: Alpaca 403 broken 21 sessions — zero trades executable until infrastructure is restored.
+
+---
+
 ### Apr 30 — Market-Open (Day 7, Thursday — Post-FOMC + Iran Escalation)
 **Portfolio:** N/A | **Cash:** N/A (API returning 403 — 20th consecutive session)
 
