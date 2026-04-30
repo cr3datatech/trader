@@ -175,3 +175,14 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —    | —    | —      | —      |  — |
 
 **Notes:** Market-open execution attempted. Alpaca returning 403 on all endpoints — 20th consecutive session (ALPACA_ENDPOINT=http://178.104.75.110/v2 proxy unreachable; IP not in Alpaca allowlist). ALPACA_API_KEY and ALPACA_SECRET_KEY are now present in env but endpoint remains blocked. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp notification skipped. Rule check: 0 positions (≤6 ✓), 0/3 trades this week (✓). Research decision: **HOLD** — Brent $126 (+6.84%), GDP advance Q1 + Core PCE at 8:30 ET (high-impact macro data drops before open), AAPL binary print after close, Iran military escalation risk. Even if Alpaca were operational: no pre-data entries per strategy rules; wait until 10am+ for price action confirmation. Watchlist: V pullback to $320-325 (gapped to $334; do not chase), NOC at $570-575 (post-earnings selloff, analyst PT $743), GOOGL gap-hold above yesterday's close. No trades executed; portfolio remains all-cash at $100,000 baseline. Week 2: 0/3 trades. CRITICAL: Alpaca proxy and env var injection must be restored before any trading can occur.
+
+---
+
+### Apr 30 — EOD Snapshot (Day 7, Thursday — Post-FOMC + Iran Escalation)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 7 EOD — post-FOMC Thursday. Alpaca returning 403 on all endpoints (ALPACA_ENDPOINT proxy at 178.104.75.110 still blocked) — 22nd consecutive session with no API access. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 2: 0/3 trades. AAPL reported Q2 after close — result unknown (API/research blocked). Tomorrow (Fri May 1): if AAPL beat cleanly, may open trade window; watchlist unchanged (V $320-325, NOC $570-575, GOOGL gap-hold). P&L baseline for tomorrow: $100,000 (unchanged from Day 0). CRITICAL: Alpaca proxy and all env vars must be restored before any trading can occur — 22 sessions lost.
