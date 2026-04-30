@@ -1,5 +1,59 @@
 ---
 
+## 2026-04-30 — Pre-market Research (Day 7, Thursday — Post-FOMC + Iran Escalation)
+
+> NOTE: Alpaca API returning 403 — 19th consecutive session (keys bound to proxy at 178.104.75.110:8080). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (all-cash baseline, unchanged from Day 0)
+- Cash: $100,000 (100%)
+- Buying power: ~$200,000 (2× margin)
+- Daytrade count: 0 (0/3 used this week)
+- Open positions: none (confirmed from log history)
+- Open orders: none
+
+### Market Context
+- **WTI**: $110.24 (+3.14%) | **Brent**: $126.10 (+6.84%) — US military briefing Trump on Iran action; extended blockade threat driving extreme oil spike
+- **S&P 500 futures**: ES -0.22%, Dow futures -285 pts (-0.58%), Nasdaq -0.23% — Mag-7 earnings mixed; META -7% after hours dragging futures
+- **VIX**: ~17.83 close Apr 29 (monthly avg ~19.31) — expect spike at open on Iran news + oil surge
+- **Today's major catalysts**:
+  - Iran: US military briefing Trump on action against Iran; blockade threat = binary oil/market risk
+  - **GDP advance Q1 2026** (8:30 AM ET) — high-impact; could compound oil shock
+  - **Core PCE / Employment Cost Index** (8:30 AM ET) — inflation data
+  - Jobless claims (8:30 AM ET)
+  - ECB rate decision
+  - UAE exits OPEC May 1 — potential supply disruption catalyst
+  - **Mag-7 results**: GOOGL +6% AH (beat + raised AI infra spend); META -7% AH (flat Q2 rev guidance, capex $125-145B raised); AMZN -3% AH; MSFT -3% AH — mixed tape
+  - **AAPL** reports Q2 after close today (est. EPS $1.93, rev $109.7B) — binary risk
+  - **MA (Mastercard)** reports today — Visa sister play
+- **Earnings BMO today**: CAT, MRK, COP, LLY, MO, Altria — energy (COP) relevant
+- **Sector momentum YTD**: Energy #1 (Brent $126), Materials #2; Tech/Communication mixed; Financials lagging
+
+### Watchlist Updates
+- **V (Visa)**: Q2 beat — EPS $3.31 vs $3.10 est, revenue $11.23B (+17% YoY, biggest since 2022), $20B buyback authorized. Stock +8.26% to $334.86. **Already gapped — do not chase.** Monitor pullback to $320-325 zone (~3-4% retrace).
+- **INTC**: Q1 revenue +7% YoY to $13.6B, 40% AI-driven revenue growth. Stock surged 12.1% to $94.75 Apr 29, AH to $96.73. Evercore ISI $111 PT, KeyBanc $110, Citi Buy $95. **Blew past our $65-67 entry target — missed.** Wait for consolidation; do not chase at $96.
+- **NOC**: Q1 EPS $6.14 vs $6.12 est, rev $9.88B vs $9.85B est. Stock sold off from $657 to $572 (capex raised $200M, GEM 63XL charge $71M). Analyst PT $743 (+29% upside), 10 Buy / 5 Hold. Now at $572 — 13% below our prior $490-500 watchlist entry. Evaluating.
+- **MSFT**: -3% AH. Mixed — beat but AI infra cost concerns. Not actionable today.
+- **GOOGL**: +6% AH — cleanest Mag-7 print. Monitor for gap-and-hold at open.
+
+### Trade Ideas
+1. **V (Visa)** — Strongest setup: clean beat, record buyback, payment volume inflecting. Entry on pullback to $320-325 (3-4% off current $334.86), stop $298 (-8%), target $385 (+19%), R:R ~2.5:1. **WAIT for pullback — do not chase gap.**
+2. **NOC (Northrop Grumman)** — Sold off to $572 post-earnings despite beat; B-21 bomber + Sentinel demand structural; Iran escalation = sustained defense premium; analyst PT $743. Entry at ~$570-575, stop $528 (-7.5%), target $680 (+19%), R:R ~2.5:1. But oil spike + macro uncertainty = size at 10-12% max if entering.
+3. **GOOGL (Alphabet)** — Cleanest Mag-7 print; +6% AH. If gap holds at open above yesterday's close, potential breakout. Entry ~$175-178 post-open if price holds above gap, stop ~$163 (-8%), target ~$210 (+20%), R:R ~2.5:1. **Watch open — do not buy into open volatility.**
+
+### Risk Factors
+- Iran military escalation = binary macro shock; Brent $126 = extreme premium (could reverse violently on any ceasefire signal)
+- GDP/PCE print at 8:30 — could move market +/- 1-2% before open
+- Alpaca 403 (19 sessions) — no trades executable regardless of setup quality
+- AAPL binary print after close — don't initiate anything if AAPL is a factor
+- VIX likely spikes at open; keep all sizing ≤12-15%
+- PDT: 0/3 day trades used — preserve capacity
+
+### Decision
+**HOLD** — Iran escalation at $126 Brent is too unpredictable; GDP/PCE data drops at 8:30 before open. Even if Alpaca were operational: wait for 8:30 macro prints, assess VIX reaction, and only consider NOC or V pullback entries after 10am ET when price action confirms. No new trades pre-data. Patience > activity.
+
+---
+
 ## 2026-04-29 — Pre-market Research (FOMC Day)
 
 > NOTE: Alpaca API returning 403 — 16th consecutive session (keys bound to proxy at 178.104.75.110:8080). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
