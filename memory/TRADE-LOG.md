@@ -210,3 +210,14 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —    | —    | —      | —      |  — |
 
 **Notes:** Market-open execution attempted. Alpaca returning 403 on all endpoints — 24th consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 still blocked). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Rule check: 0 positions (≤6 ✓), 0/3 trades this week (✓). Research decision (per pre-market log): **HOLD** — VIX 18.5 (elevated), ISM Manufacturing PMI at 10am ET (macro vol risk), MSFT binary print BMO, oil binary risk from Iran peace talks (Hormuz still closed despite ceasefire narrative). NOC $570-580 is best setup structurally; AAPL/LLY do not chase premarket gaps. Even if Alpaca were operational: decision is HOLD — wait for ISM print + VIX to fade below 17 as potential entry trigger Monday. No trades executed; portfolio remains all-cash at $100,000 baseline. Week 3: 0/3 trades. ClickUp notification skipped (keys missing, and no trades placed). CRITICAL: Alpaca proxy and all env vars must be restored before any trading can occur — 24 sessions lost.
+
+---
+
+### May 01 — EOD Snapshot (Day 8, Friday — AAPL Beat + Iran Peace Talks)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 8 EOD — Week 3, Friday. Alpaca returning 403 on all endpoints (ALPACA_ENDPOINT proxy at 178.104.75.110 still blocked) — 26th consecutive session with no API access. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 3: 0/3 trades. Day's strategy was HOLD: VIX 18.5 (elevated), ISM Manufacturing PMI risk, MSFT binary print BMO, Iran peace-talks oil binary risk. AAPL confirmed strong Q2 beat — gap-up today, do not chase; pullback to $210-215 only entry. NOC $570-580 remains best structural setup (record $95.6B backlog, Hormuz defense premium). P&L baseline for next week: $100,000 (unchanged from Day 0). Monday plan: if VIX fades below 17 and Iran situation stabilizes, re-evaluate NOC entry at $570-575. CRITICAL: Alpaca proxy and all env vars must be restored before any trading can occur — 26 sessions lost.
