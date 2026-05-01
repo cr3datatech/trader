@@ -1,5 +1,49 @@
 ---
 
+## 2026-05-01 — Pre-market Research (Day 8, Friday — AAPL Beat + Iran Peace Talks)
+
+> NOTE: Alpaca API returning 403 — 23rd consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (all-cash baseline, unchanged from Day 0 — API inaccessible)
+- Cash: $100,000 (100%)
+- Buying power: ~$200,000 (2× margin, estimated)
+- Daytrade count: 0
+- Open positions: none
+- Open orders: none
+
+### Market Context
+- **WTI**: $104.19 | **Brent**: ~$111.84 — significant jump from Apr 30 ($86/$96); Hormuz supply shock still priced in
+- **S&P 500 Futures**: ES 7,257 (+0.18% premarket); Dow +73 pts; Nasdaq +0.08% — modest green driven by AAPL beat + Iran peace talk hopes
+- **VIX**: ~18.53 (down from 19.31 peak, still elevated; 52-week high 35.30 on Mar 9)
+- **Iran**: Trump sending Witkoff + Kushner to Pakistan for peace talks with Iran PM this weekend; ceasefire narrative = risk-on bid, but Hormuz still closed → oil remains elevated
+- **AAPL Q2 (reported Apr 30 AH)**: EPS $2.01 vs $1.94 est ✓; Rev $111.2B vs $109.01B est ✓; Services $30.98B vs $30.39B est ✓; only iPhone missed. Q3 guidance +14–17% revenue YoY. Stock +3% AH. CEO transition (Ternus replacing Cook Sept 1) already known — no new shock.
+- **AMZN**: Beat; cloud +28% YoY ($37.6B); stock +3%
+- **LLY**: EPS beat; Mounjaro +125% YoY; Zepbound +80%; raised FY26 guidance; stock +7% premarket
+- **MSFT**: Reporting BMO today (est EPS $0.76)
+- **NOC**: ~$577 (+0.81% premarket); pulled back from $650+ post-earnings Apr 29; record backlog $95.6B
+- **INTC**: ~$93 (near 52-week high area; up from ~$67 on Apr 21 — has already run +38%)
+- **Economic data today**: ISM Manufacturing PMI (10am ET, first business day of May); Construction Spending (10am ET) — no CPI/NFP/FOMC
+- **Sector momentum YTD**: Leaders — Energy (+22%), Healthcare, Materials, Industrials; Laggards — Technology, Consumer Discretionary, Communication Services
+
+### Trade Ideas
+1. **NOC** — Record backlog $95.6B; structural defense demand (Hormuz/Iran); pulled back from $650 to $577 post-earnings selloff = better risk/reward than Apr 21. Entry $570–580 on open hold, stop ~$520 (-9%), target ~$680 (+18%), R:R ~2:1. Confirm holds $570 support first 30 min.
+2. **AAPL** — Clean beat + strong Q3 guidance (+14-17%); +3% AH = gap open likely. Do NOT chase gap. Entry only on intraday pullback to $210–215 zone (prior close area); stop ~-8%, target prior ATH zone. Watchlist only today.
+3. **LLY** — Blowout earnings, obesity/diabetes drug dominance, raised guidance; Healthcare sector leader YTD. Already +7% premarket — do not chase; watch for 2–3 session consolidation entry.
+
+### Risk Factors
+- VIX 18.5: still elevated → size ≤15% per position
+- Oil at $104–112: Iran peace talks = binary oil reversal risk if deal struck; energy/defense premium could unwind rapidly
+- MSFT reporting BMO today → tech binary risk; could drag Nasdaq
+- ISM Manufacturing at 10am = potential macro volatility around release
+- PDT: 0/3 day trades used — preserve capacity (account <$25k, PDT rules apply)
+- Alpaca API 403 (23rd consecutive session) + all env vars still MISSING — no trades executable
+
+### Decision
+**HOLD** — VIX 18.5, oil binary risk from Iran talks, MSFT binary print, ISM macro data. API still broken (can't execute regardless). NOC $570-580 is the best setup structurally; watch for intraday hold of $570 and VIX fade below 17 as potential entry trigger. Week 3: 0/3 trades. CRITICAL: infrastructure must be restored before any trading can occur.
+
+---
+
 ## 2026-04-30 — Pre-market Research (Day 7, Thursday — Post-FOMC + Iran Escalation)
 
 > NOTE: Alpaca API returning 403 — 19th consecutive session (keys bound to proxy at 178.104.75.110:8080). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
