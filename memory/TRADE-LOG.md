@@ -189,6 +189,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### May 1 — Midday Scan (Day 8, Friday — AAPL Beat + Iran Peace Talks)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 25th consecutive session)
+
+- Alpaca 403 on `positions` and `orders` — proxy at 178.104.75.110 still blocked.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- **Thesis check (watchlist only):** INTC has already run $67 → ~$93 (+38%) since Apr 21 upgrade — thesis largely played out; remove from active watchlist. NOC ~$577 remains best structural setup (record $95.6B backlog, Hormuz defense premium). AAPL gap-up today — do not chase; pullback to $210-215 only.
+- **Strategy: HOLD.** ISM PMI and MSFT BMO today = macro/tech binary risk. Iran peace talks = binary oil reversal risk (Hormuz premium could unwind fast if deal struck). VIX 18.5 still elevated. No new entries until VIX <17 and Iran situation resolves. Week 3: 0/3 trades.
+- No action taken. All cash.
+- CRITICAL: Alpaca proxy broken 25 sessions — zero trades executable until infrastructure restored.
+
+---
+
 ### May 1 — Market-Open (Day 8, Friday — AAPL Beat + Iran Peace Talks)
 **Portfolio:** N/A | **Cash:** N/A (API returning 403 — 24th consecutive session)
 
