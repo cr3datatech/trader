@@ -1,5 +1,49 @@
 ---
 
+## 2026-05-04 — Pre-market Research (Day 9, Monday — VIX Sub-17 / NOC Entry Trigger)
+
+> NOTE: Alpaca API returning 403 — 27th consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: $100,000 (estimated — all cash, no positions; Alpaca 403 prevents live read)
+- Cash: $100,000 (100%)
+- Buying power: ~$200,000 (2× margin, estimated)
+- Daytrade count: 0
+- Open positions: none (confirmed from log history)
+- Open orders: none (confirmed from log history)
+- Week 3: 0/3 trades
+
+### Market Context
+- **WTI:** ~$101/barrel (May 3 close, down from $105 Apr 30)
+- **Brent:** ~$111/barrel (holding above $111 as of May 1–3); Exxon CEO warns market hasn't absorbed full Hormuz disruption
+- **Hormuz:** Conditional ceasefire in place but strait remains effectively closed — nearly zero shipping traffic; IEA calls it "largest supply disruption in history of global oil market"
+- **S&P 500:** Closed at 7,230.12 on May 1 (new all-time high); April +10% (best month in 5 years); 10-of-11 sectors up on May 1
+- **Premarket (May 4):** Futures data not captured; context constructive (new ATH Friday, Iran proposal submitted)
+- **VIX: 16.78** — BELOW 17 TRIGGER. Entry condition met for first time this session.
+- **Sector momentum YTD Leaders:** Consumer Staples, Industrials, Materials, Energy (Leading); Technology, Communications, Consumer Discretionary, Financials (Lagging)
+- **Earnings today (BMO):** TSN, FANG (Diamondback Energy), NCLH, CNA, Axsome, Norwegian Cruise
+- **Earnings today (AMC):** PLTR (115% EPS jump expected; options imply ~10.5% move), VRTX, PINS, ON Semi, Duolingo
+- **Economic calendar:** 48 events scheduled today; no specific high-impact CPI/FOMC/NFP events found for May 4
+- **NOC (our watchlist):** Trading ~$568.14 (May 3). Q1 beat: EPS $6.14 vs $6.06 est; rev $9.9B vs $9.8B est. FY guidance reaffirmed ($43.5B–$44B). Analyst avg PT $697.38 (16 analysts, avg Buy rating). 52-week range $453–$774.
+
+### Trade Ideas
+1. **NOC — Primary candidate** — VIX now 16.78 (below 17 trigger ✓); Q1 beat + reaffirmed guidance; Hormuz closure sustains defense demand structural tailwind; Industrials sector leading YTD; analyst PT $697 (+22.7% from $568). Entry: $568–575 (at/near current price — do not chase above $580). Stop: ~$519 (-9%), GTC trailing 10%. Target: $697 (analyst consensus). R:R: ~2.5:1. Week 3: 0/3 trades used, have capacity. SIZE: 15% max (~$1,500 at $10K scale or $15K at $100K scale). **BLOCKED by Alpaca 403 — infrastructure must be restored first.**
+2. **FANG (Diamondback Energy) — Conditional** — BMO earnings today; Energy YTD leader; WTI $101 + Brent $111 + Hormuz closed = elevated price floor. IF FANG beats + guides up AND VIX holds <17: entry on intraday pullback post-open. Stop: -9%. Do not enter pre-result. Watchlist only until print confirmed.
+3. **XLE (energy ETF) — Backup** — If Hormuz closure persists and FANG confirms sector strength, XLE is lower-risk energy exposure vs single-name binary risk. Entry on pullback to 50dma only.
+
+### Risk Factors
+- Alpaca API 403 — 27th session — **zero trades executable until infrastructure restored** (critical blocker)
+- Hormuz binary: if ceasefire enforced and strait reopens → rapid oil selloff → Energy/defense premium unwinds
+- PLTR AMC = AI/tech overnight binary; do not hold tech into print
+- April +10% = mean-reversion risk entering May; don't chase gaps
+- ClickUp/Perplexity keys all MISSING — manual oversight and WebSearch fallback only
+- PDT: 0/3 day trades used — preserve capacity
+
+### Decision
+**WANT TO TRADE (NOC) — BLOCKED by infrastructure.** VIX trigger at 16.78 met for first time this session; NOC Q1 beat + $697 analyst PT + Hormuz structural tailwind = highest-conviction setup to date. If Alpaca API restored before 10am ET: enter NOC ~$568–575, size 15% (~$15K), 10% GTC trailing stop at ~$519. Otherwise: HARD HOLD — patience > activity. FANG on watch post-BMO print. PLTR binary risk tonight — no new tech positions. Infrastructure restoration is priority-1.
+
+---
+
 ## 2026-05-01 — Pre-market Research (Day 8, Friday — AAPL Beat + Iran Peace Talks)
 
 > NOTE: Alpaca API returning 403 — 23rd consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
