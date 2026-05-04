@@ -221,3 +221,18 @@ No positions yet. Bot launches tomorrow.
 | —      | —      | —     | —     | —       | —              | —    |
 
 **Notes:** Day 8 EOD — Week 3, Friday. Alpaca returning 403 on all endpoints (ALPACA_ENDPOINT proxy at 178.104.75.110 still blocked) — 26th consecutive session with no API access. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio remains all-cash at $100,000 baseline (unchanged since Day 0). Week 3: 0/3 trades. Day's strategy was HOLD: VIX 18.5 (elevated), ISM Manufacturing PMI risk, MSFT binary print BMO, Iran peace-talks oil binary risk. AAPL confirmed strong Q2 beat — gap-up today, do not chase; pullback to $210-215 only entry. NOC $570-580 remains best structural setup (record $95.6B backlog, Hormuz defense premium). P&L baseline for next week: $100,000 (unchanged from Day 0). Monday plan: if VIX fades below 17 and Iran situation stabilizes, re-evaluate NOC entry at $570-575. CRITICAL: Alpaca proxy and all env vars must be restored before any trading can occur — 26 sessions lost.
+
+---
+
+### May 04 — Midday Scan (Day 9, Monday — VIX Sub-17 / NOC Entry Trigger)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 28th consecutive session)
+
+- Alpaca 403 on `positions` and `orders` — proxy at 178.104.75.110 still blocked.
+- No open positions confirmed from log history → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — Steps 6/7 skipped.
+- **VIX: 16.78** — below 17 trigger; NOC entry condition met for first time this session.
+- **NOC watchlist:** ~$568.14 (May 3 close). Q1 beat (EPS $6.14 vs $6.06), guidance reaffirmed $43.5–44B. Analyst avg PT $697 (+22.7%). Hormuz structural tailwind intact. Entry zone $568–575; stop ~$519 (10% GTC trailing). 15% position size (~$15K). **BLOCKED — cannot execute until Alpaca infrastructure restored.**
+- **FANG:** BMO earnings today — result unknown (API/research blocked). Watchlist only until print confirmed + intraday action visible.
+- **PLTR:** Reports AMC — AI/tech binary risk overnight. No new tech positions.
+- No action taken. All cash. Week 3: 0/3 trades.
+- CRITICAL: Alpaca proxy broken 28 sessions — zero trades executable until infrastructure restored.
