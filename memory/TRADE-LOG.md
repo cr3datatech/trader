@@ -236,3 +236,14 @@ No positions yet. Bot launches tomorrow.
 - **PLTR:** Reports AMC — AI/tech binary risk overnight. No new tech positions.
 - No action taken. All cash. Week 3: 0/3 trades.
 - CRITICAL: Alpaca proxy broken 28 sessions — zero trades executable until infrastructure restored.
+
+---
+
+### May 04 — EOD Snapshot (Day 9, Monday — VIX Sub-17 / NOC Entry Trigger)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 9 EOD — Week 3, Monday. Alpaca returning 403 on all endpoints — 29th consecutive session with no API access. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio all-cash at $100,000 baseline (unchanged since Day 0). Week 3: 0/3 trades. VIX at 16.78 (below 17 trigger) — NOC entry condition met but blocked by infrastructure. NOC ~$568 remains top watchlist entry. FANG BMO earnings today (result unknown). PLTR AMC — binary overnight risk; no new tech positions. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). Tuesday plan: if Alpaca restored, evaluate NOC at $568-575 on open confirmation; monitor FANG post-earnings for setup. CRITICAL: Alpaca proxy and ClickUp/Perplexity env vars must be restored — 29 sessions lost.
