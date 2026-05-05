@@ -1,5 +1,16 @@
 # Trade Log
 
+### May 05 — Market-Open (Day 10, Tuesday — Iran Attacks UAE / Oil $114 / PLTR Beat)
+**Portfolio:** N/A | **Cash:** N/A (API returning 403 — 31st consecutive session)
+
+| Ticker | Shares | Entry | Fill | Stop | Thesis | Target | R:R |
+|--------|--------|-------|------|------|--------|--------|-----|
+| —      | —      | —     | —    | —    | —      | —      |  — |
+
+**Notes:** Market-open execution attempted. Alpaca returning 403 on all endpoints — 31st consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 still blocked). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Rule check: 0 positions (≤6 ✓), 0/3 trades this week (✓), 0/3 PDT day trades used (✓). Research decision (per pre-market log): **HOLD** — VIX 16.99 (near 17 trigger — one headline from breach); Iran attacked UAE with drones overnight, ceasefire fragile, Brent $114 (Exxon CEO: shock not absorbed); PLTR gapped up on strong beat (EPS $0.33 vs $0.28, rev +84.7%) — do NOT chase gap; AMD binary print after close today (tech vol risk overnight); NOC remains best structural setup ($568–575 zone, Hormuz defense premium, $697 analyst PT) but blocked by infrastructure. No trades executed; portfolio all-cash at $100,000 baseline. Week 3: 0/3 trades. ClickUp notification skipped (keys missing; no trades placed). CRITICAL: Alpaca proxy and all env vars must be restored before any trading can occur — 31 sessions lost.
+
+---
+
 ## Day 0 — EOD Snapshot (pre-launch baseline)
 **Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
 
