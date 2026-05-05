@@ -11,6 +11,17 @@
 
 ---
 
+### May 05 — EOD Snapshot (Day 10, Tuesday — Iran Attacks UAE / Oil $114 / AMD Binary Print)
+**Portfolio:** N/A | **Cash:** N/A | **Day P&L:** N/A | **Phase P&L:** N/A
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| —      | —      | —     | —     | —       | —              | —    |
+
+**Notes:** Day 10 EOD — Week 3, Tuesday. Alpaca returning 403 on all endpoints — 32nd consecutive session with no API access. PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING — ClickUp EOD alert not sent. No trades executed; portfolio all-cash at $100,000 baseline (unchanged since Day 0). Week 3: 0/3 trades. Day theme: Iran attacked UAE with drones overnight (ceasefire fragile, Brent $114, Hormuz risk elevated); PLTR gapped up on strong beat (EPS $0.33 vs $0.28, rev +84.7%) — no chase; AMD binary print after close (result unknown; overnight tech vol risk). VIX 16.99 — near 17 trigger, one headline from breach. NOC remains top structural setup ($568–575 zone, $697 analyst PT, Hormuz defense premium) but blocked by infrastructure. P&L baseline for tomorrow: $100,000 (unchanged from Day 0). Wednesday plan: check AMD post-earnings reaction for tech sector signal; if AMD beat holds, watch PLTR/tech for follow-through; if Iran escalates, NOC thesis strengthens — re-evaluate entry urgency; VIX watch for sustained move below 17. CRITICAL: Alpaca proxy and all env vars must be restored — 32 sessions lost.
+
+---
+
 ## Day 0 — EOD Snapshot (pre-launch baseline)
 **Portfolio:** $100,000.00 | **Cash:** $100,000.00 (100%) | **Day P&L:** $0 | **Phase P&L:** $0
 
