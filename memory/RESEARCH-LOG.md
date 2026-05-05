@@ -1,5 +1,47 @@
 ---
 
+## 2026-05-05 — Pre-market Research (Day 10, Tuesday — Iran Attacks UAE / Oil $114 / PLTR Beat)
+
+> NOTE: Alpaca API returning 403 — 30th consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
+
+### Account
+- Equity: N/A (Alpaca 403 — 30th consecutive session)
+- Cash: $100,000 (all-cash baseline — unchanged since Day 0)
+- Buying power: N/A
+- Daytrade count: 0 (0/3 used this week)
+- Open positions: none (confirmed from log history)
+- Open orders: none
+
+### Market Context
+- **WTI:** ~$106.42 (+4.39%); **Brent:** ~$114.44 (+5.8%) — Iran drone attack on UAE (ADNOC vessel targeted); ceasefire fraying
+- **S&P 500 futures:** 7,231.25 (+0.01%) — essentially flat; investors cautious post-UAE attack
+- **VIX:** 16.99 (May 4 close); near 17 trigger — rising geopolitical risk could push above 17 today
+- **Middle East / Hormuz:** Iran attacked UAE with drones (ADNOC vessel); US "Operation Project Freedom" opened limited transit (2 ships) but full strait reopening far off; Exxon CEO: "market has not absorbed full oil shock"; ceasefire described as fragile
+- **Earnings today:**
+  - **PLTR (AMC May 4 — impact today):** STRONG BEAT — EPS $0.33 vs $0.28 est (+17.9%), rev +84.7% to $1.63B, Q2 guidance $1.80B (+7.4% above consensus). Stock climbed after hours.
+  - **AMD (AMC today, May 5):** Reports after close — est. EPS $1.29 (+33% YoY), rev ~$9.8B (+32%); data center/AI key. Binary risk today.
+  - **Norwegian Cruise Line (BMO today):** Beat EPS, missed revenue, Q2/FY guided below consensus.
+- **Economic calendar:** No CPI/PPI/FOMC/jobs data today; Factory Orders (Mar) already released at +1.5% vs +0.5% est (beat — AI hardware demand driving orders)
+- **Sector YTD leaders:** Energy (+30.7%), Industrials, Materials leading; Technology, Consumer Discretionary lagging; Consumer Staples/Industrials momentum maintained
+
+### Trade Ideas
+1. **NOC** — Top watchlist. VIX condition met (16.99 < 17). Iran attacking UAE = sustained Hormuz/defense premium. Q1 beat ($6.14 EPS vs $6.06), $95.6B backlog, $488M F-16 FMS contract. Analyst avg PT $697 (+22.7%). Range May 4: $565–$577. **Entry zone $568–575; stop ~$513 (-10% GTC trailing); target $697 (analyst PT); R:R ~2.5:1.** Size: 15% (~$15K). Wait for post-open price action confirmation; ensure VIX stays below 17.
+2. **PLTR** — Beat strongly; 11 consecutive quarters of accelerating revenue. Gap-up likely at open. **Do NOT chase gap.** If stock opens >$150 (>4% gap), wait for intraday pullback to prior resistance ~$145–148. Entry on confirmed hold, stop ~$132 (-10% from entry), target ~$175+. High valuation risk — size at 10% max if entering.
+3. **Energy (XOM/CVX)** — Brent $114; sector YTD +30.7%; Exxon CEO warns shock not absorbed. Already moved significantly from earlier entries — need intraday support levels. Watchlist only; do not add ahead of potential recession signal from elevated oil.
+
+### Risk Factors
+- Iran attacking UAE = ceasefire collapsing; escalation toward full Hormuz blockade could push VIX above 20
+- Oil at $114 Brent; recession risk rising (CNBC: "misplaced euphoria" / "sleepwalking into recession")
+- AMD binary print after close today = tech sector vol risk overnight
+- VIX 16.99 — one bad headline away from >17; reassess if spikes
+- PDT: 0/3 day trades this week — capacity intact
+- CRITICAL: Alpaca proxy and all env vars still broken (30 sessions) — zero trades executable until infrastructure restored
+
+### Decision
+**HOLD** — Iran attacked UAE overnight, oil at $114, ceasefire fragile, VIX near 17 trigger. NOC remains best structural setup (Hormuz defense premium intact) but cannot execute until Alpaca restored. PLTR gap — do not chase. AMD binary risk today — no new tech entries. Week 3: 0/3 trades. Patience > activity.
+
+---
+
 ## 2026-05-04 — Pre-market Research (Day 9, Monday — VIX Sub-17 / NOC Entry Trigger)
 
 > NOTE: Alpaca API returning 403 — 27th consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
