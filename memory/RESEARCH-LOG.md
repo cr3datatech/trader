@@ -1,5 +1,19 @@
 ---
 
+## 2026-05-05 — Midday Scan (Day 10, Tuesday — Iran Attacks UAE / Oil $114 / PLTR Beat)
+
+> NOTE: Alpaca API returning 403 — 31st consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. No trades executable.
+
+- Alpaca 403 on `positions` and `orders` → Steps 3/4/5 (cut losers, tighten stops, thesis check) all N/A.
+- No open positions per log history — all-cash $100,000 unchanged since Day 0.
+- PERPLEXITY_API_KEY missing → Step 6 (intraday Perplexity research) skipped.
+- CLICKUP_API_KEY missing → Step 7 (ClickUp notification) skipped; no action taken anyway.
+- **Watchlist status (pre-market context):** NOC remains top setup — Hormuz/defense premium intact (Iran attacked UAE); entry zone $568–575 still valid if API restored. AMD binary print AMC today — no new tech entries. PLTR gap-up (strong beat) — do not chase above $150.
+- **Strategy: HOLD.** AMD AMC binary risk + oil $114 + VIX near 17 = no entries. Week 3: 0/3 trades.
+- No action taken. ClickUp notification skipped.
+
+---
+
 ## 2026-05-05 — Pre-market Research (Day 10, Tuesday — Iran Attacks UAE / Oil $114 / PLTR Beat)
 
 > NOTE: Alpaca API returning 403 — 30th consecutive session (ALPACA_ENDPOINT proxy at 178.104.75.110 unreachable). PERPLEXITY_API_KEY, CLICKUP_API_KEY, CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID all MISSING. Research via WebSearch fallback. ClickUp alert could not be sent.
